@@ -94,7 +94,7 @@
     .npc {
       text-align: center;
       margin-right: 20px;
-      width: 500px; /* Defina a largura dos contêineres npc */
+      width: 500px; 
     }
     
     .npc img {
@@ -103,8 +103,8 @@
     }
     
     .npc p {
-      max-width: 100%; /* Defina a largura máxima para o texto */
-      margin-top: 20px; /* Ajuste a margem superior conforme necessário */
+      max-width: 100%; 
+      margin-top: 20px; 
     }
     
     .contato {justify-content:left ;
